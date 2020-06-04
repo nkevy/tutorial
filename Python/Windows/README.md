@@ -31,6 +31,8 @@ Step 3 Test Python
 6. press enter, text stating the Python vertion should appear. If so python was installed corectly if not google: python windows not working
 7. to exit type: exit()
 8. press enter, you should no loger see the >>> before the cursor 
+
+
 Your Done! If you need to learn about the PATH see bellow.
 
 Add Python to PATH
