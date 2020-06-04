@@ -1,12 +1,14 @@
 Windows setup for Python
 ========================
 Author: nkevy
+
 Step 1 Dowload Python
 ---------------------
 1. Navigate to https://www.python.org/downloads/windows/
 2. Find the Stable Relaeses section
 3. Determine if you have a 64 or 86 bit Windows
 3. Click and dowload the Windows x86-64 executable installer (64 bit) or the Windows x86 executable installer (86 bit)
+
 Step 2 Install Python
 ----------------------
 1. Navigate to your Dowloads folder in Windows File Explorer
@@ -18,6 +20,7 @@ Step 2 Install Python
 7. On the Setup was successfull page, select Disable path length limit
 8. User Account Control may appear if so select Yes
 9. On the Setup was successfull page, select Close
+
 Step 3 Test Python
 ------------------
 1. Press or click the windows button
@@ -29,6 +32,7 @@ Step 3 Test Python
 7. to exit type: exit()
 8. press enter, you should no loger see the >>> before the cursor 
 Your Done! If you need to learn about the PATH see bellow.
+
 Add Python to PATH
 ------------------
 If you forgot or chose not to select the Add Python x.x to PATH follow these steps.
