@@ -11,5 +11,5 @@ how to setup Python for both windows and unix systems.
 
 Indludes
 ---------
-Python
-Apache 
+1. Python
+2. Apache 
