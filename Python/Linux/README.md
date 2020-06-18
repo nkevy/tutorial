@@ -47,3 +47,20 @@ If sudo apt-get update Or install python3 Prints an Error:
 14. If the above install command fails, search for another package manager. 15. Google: <my linux distribution> package manager
 16. Update the package manager.
 17. Install python3 with that package manager. 
+
+Add Python To PATH:
+---------------------
+1. To run a python session from any directory add python to your environment variable called PATH.
+2. Type: cd $HOME
+3. Press enter. 
+4. Type: nano .bashrc
+5. Press enter. 
+6. Scroll down by pressing the down arrow. 
+7. Look at lines that contain PATH=
+8. Check to see if the location of python3 is already added to your PATH. If so your done, type: ctrl+x
+9. Create a new line at the bottom of the page, scroll to the last line and press enter. 
+10. Type: export PATH=<location of python3>:$PATH
+10.1 For example,  PATH=/usr/bin/python:$PATH
+11. Press ctrl+x
+12. Press y
+13. Close and reopen the terminal. 
