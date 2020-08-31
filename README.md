@@ -9,7 +9,7 @@ topic of the tutorial.
 For example, the Python folder contains documents describing
 how to setup Python for both windows and unix systems.
 
-Indludes
+Includes
 ---------
 1. Python
 2. Apache 
